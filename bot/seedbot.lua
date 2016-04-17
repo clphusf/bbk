@@ -232,7 +232,7 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {142266345},--Sudo users
+    sudo_users = {142266345,159359772},--Sudo users
     moderation = {data = 'data/moderation.json'},
     about_text = [[ddimon v2
 An advanced administration bot based on TG-CLI written in Lua
