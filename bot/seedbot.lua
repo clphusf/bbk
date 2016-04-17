@@ -232,19 +232,13 @@ function create_config( )
 	"whitelist",
 	"msg_checks"
     },
-    sudo_users = {110626080,103649648,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {142266345},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
+    about_text = [[ddimon v2
 An advanced administration bot based on TG-CLI written in Lua
 
-https://github.com/SEEDTEAM/TeleSeed
+https://github.com/ddimon/bbk
 
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
 
 Special thanks to
 awkward_potato
@@ -253,8 +247,8 @@ topkecleon
 Vamptacus
 
 Our channels
-@teleseedch [English]
-@iranseed [persian]
+@team_dimon 
+
 
 Our website 
 http://teleseed.seedteam.org/
@@ -472,7 +466,7 @@ will return group ban list
 
 ]],
 	help_text_super =[[
-SuperGroup Commands:
+SuperGroup Commands dimon:
 
 !info
 Displays general info about the SuperGroup
