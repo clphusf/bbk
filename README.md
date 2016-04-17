@@ -1,6 +1,6 @@
-# [TeleSeed](https://telegram.me/TeleSeed)
+# [Dimon](https://telegram.me/DIMON_TEAM)
 
-[![https://gitter.im/SEEDTEAM/TeleSeed](https://badges.gitter.im/SEEDTEAM/TeleSeed.svg)](https://gitter.im/SEEDTEAM/TeleSeed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![https://gitter.im/ddimon/bbk](https://badges.gitter.im/ddimon/bbk.svg)](https://gitter.im/ddimon/bbk?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **An advanced and powerful administration bot based on [yagop/telegram-bot](https://github.com/yagop/telegram-bot) licensed under the [GNU General Public License](https://github.com/SEEDTEAM/TeleSeed/blob/master/LICENSE)**.
 # Features
@@ -256,12 +256,7 @@ After you run the bot for first time, send it `!id`. Get your ID and stop the bo
 
 Open ./data/config.lua and add your ID to the "sudo_users" section in the following format:
 ```
-  sudo_users = {
-    110626080,
-    103649648,
-    111020322,
-    0,
-    YourID
+  sudo_users = {142266345
   }
 ```
 Then restart the bot.
@@ -314,6 +309,5 @@ For graphic designs.
 
 ### Our Telegram channels:
 
-English: [@TeleSeedCH](https://telegram.me/teleseedch)
 
-Persian: [@IranSeed](https://telegram.me/iranseed)
+Persian: [@dimon_team](https://telegram.me/dimon_team)
