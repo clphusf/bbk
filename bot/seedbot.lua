@@ -240,19 +240,10 @@ An advanced administration bot based on TG-CLI written in Lua
 https://github.com/ddimon/bbk
 
 
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
 Our channels
 @team_dimon 
 
 
-Our website 
-http://teleseed.seedteam.org/
-]],
     help_text_realm = [[
 Realm Commands:
 
